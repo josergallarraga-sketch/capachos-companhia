@@ -66,7 +66,7 @@ function renderQuiz(){
 }
 renderQuiz();
 
-const whatsappNumber = "5551999999999"; // SUBSTITUA pelo número comercial real, com DDI + DDD.
+const whatsappNumber = "555133361896"; // SUBSTITUA pelo número comercial real, com DDI + DDD.
 const whatsappLink = document.getElementById("whatsappLink");
 whatsappLink.href = `https://wa.me/${whatsappNumber}`;
 
